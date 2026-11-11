@@ -1,0 +1,1 @@
+import{i as e}from"./oauth-C7Vp9eQj.js";e(location,history,e=>new BroadcastChannel(e),`dropbox`),window.close();
