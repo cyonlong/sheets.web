@@ -1,0 +1,1 @@
+async function e(e,t,n){return n.byteLength>52428800?!1:(await e.putSource(t,n.slice()),!0)}export{e as keepSource};
